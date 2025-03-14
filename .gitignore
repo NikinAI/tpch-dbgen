@@ -1,0 +1,9 @@
+target/
+/.bsp/
+.idea/
+/.vscode/
+.DS_Store
+*.o
+*.tbl
+dbgen
+qgen
